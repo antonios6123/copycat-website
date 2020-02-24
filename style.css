@@ -1,0 +1,20 @@
+.Sign_In{
+    float:right;
+    font-size: 15px;
+}
+.box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+  }
+.Google{
+    text-align: center;
+    font-family: "Google_Sans";
+    font-size: 80px;
+    }

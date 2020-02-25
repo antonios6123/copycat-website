@@ -1,20 +1,45 @@
-.Sign_In{
-    float:right;
-    font-size: 15px;
-}
-.box {
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    text-align: center;
+
+/*.box {*/
+/*    border-style: solid;*/
+/*    border-color: rgb(58, 139, 207);*/
+/*    border-width: 3px;*/
+/*    text-align: right;*/
+/*  }*/
+/*  .blue-box {*/
+/*    background-color: rgb(58, 139, 207);*/
+/*    color: white;*/
+/*    margin: 5px;*/
+/*    margin-left: 1580px;*/
+/*    margin-right: 50px;*/
+ 
+  .smaller-image{
+      width:175px;
+      
   }
-  .blue-box {
-    background-color: blue;
-    color: #fff;
-    padding: 10px;
+  .Search{
+      background-color: rgb(208, 213, 219);
+      color:rgb(82, 84, 87);
+      width: 150px;
+      height: 30px;
   }
-.Google{
-    text-align: center;
-    font-family: "Google_Sans";
-    font-size: 80px;
-    }
+  .Lucky{
+      background-color: rgb(208, 213, 219);
+      color: rgb(82, 84, 87);
+      width: 150px;
+      height: 30px;
+  }
+  .Sign_In{
+      background-color:rgb(62, 129, 230);
+      color:white;
+      float: right;
+      width: 90px;
+      height: 30px;
+  }
+  .about{
+      color: grey;
+      text-align: left;
+  }
+  .store{
+      color:grey;
+      text-align:left;
+  }

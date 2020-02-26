@@ -13,17 +13,22 @@
 /*    margin-right: 50px;*/
  
   .smaller-image{
-      width:175px;
-      
+      width:300px;
+      position:relative;
+      left:800px;
+      top: 120px;
   }
   .Search{
-      background-color: rgb(208, 213, 219);
-      color:rgb(82, 84, 87);
+      background-color: rgb(209, 209, 209);
+      color:rgb(82,84,87);
       width: 150px;
       height: 30px;
+      position:relative;
+      left:500px;
+      top:250px;
   }
   .Lucky{
-      background-color: rgb(208, 213, 219);
+      background-color: rgb(209, 209, 209);
       color: rgb(82, 84, 87);
       width: 150px;
       height: 30px;
@@ -32,14 +37,23 @@
       background-color:rgb(62, 129, 230);
       color:white;
       float: right;
-      width: 90px;
-      height: 30px;
+      width: 80px;
+      height: 35px;
+      position:relative;
+      bottom: 80px;
+      right:20px;
   }
   .about{
-      color: grey;
+      color: rgb(79,79,79);
       text-align: left;
+      position: relative;
+      left: 20px;
+      
   }
   .store{
-      color:grey;
+      color:rgb(79,79,79);
       text-align:left;
+      position: relative;
+      left: 75px;
+      bottom: 40px;
   }

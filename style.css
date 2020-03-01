@@ -15,25 +15,25 @@
   .smaller-image{
       width:300px;
       position:relative;
-      left:840px;
-      top: 100px;
+      left:800px;
+      top: 120px;
   }
   .Search{
-      background-color: rgb(209, 209, 209);
+      background-color: rgb(242,242,242);
       color:rgb(82,84,87);
-      width: 130px;
-      height: 30px;
+      width: 140px;
+      height: 35px;
       position:relative;
-      left:540px;
+      right:90px;
       top:250px;
   }
   .Lucky{
-      background-color: rgb(209, 209, 209);
+      background-color: rgb(242,242,242);
       color: rgb(82, 84, 87);
-      width: 130px;
-      height: 30px;
+      width: 140px;
+      height: 35px;
       position:relative;
-      left:550px;
+      right:80px;
       top:250px
   }
   .Sign_In{
@@ -47,16 +47,53 @@
       right:20px;
   }
   .about{
-      color: rgb(79,79,79);
+      color: rgb(0,0,0);
       text-align: left;
       position: relative;
       left: 20px;
       
   }
   .store{
-      color:rgb(79,79,79);
+      color:rgb(0,0,0);
       text-align:left;
-      position: relative;
+      position:relative;
       left: 75px;
       bottom: 40px;
   }
+  .gmail{
+    color:rgb(0,0,0);
+    text-align:right;
+    position:relative;
+    right:230px;
+    bottom:210px;
+  }
+  .images{
+    color:rgb(0,0,0);
+  text-align:right;
+  position:relative;
+  right:170px;
+  bottom:249px;
+  }
+  .image{
+    width:20px;
+   position:relative;
+   left:1760px;
+   bottom:290px;
+  }
+  .search_bar{
+    border-color:rgba(0,0,0,.87);
+   border-width:1px;
+   border-style:solid;
+   border-radius:20px;
+   height:40px;
+   width:580px;
+   position:relative;
+    top:175px;
+    left:360px;
+    }
+    .glass{
+      width:30px;
+      position:relative;
+      top:10px;
+      left:600px;
+    }
